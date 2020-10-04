@@ -27,4 +27,4 @@ WeasyPrint has been created and developed by Kozea (https://kozea.fr/).
 Professional support, maintenance and community management is provided by
 CourtBouillon (https://www.courtbouillon.org/).
 
-Thanks Having me And Reading this !!
+Thanks Having me And Reading this !
